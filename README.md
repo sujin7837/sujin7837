@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=MariaDB&logoColor=FFFFFF"/></a>
+<a href="https://www.notion.so/Ordinary-Code-f397b82a288647a5874e435f18e54997" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/-4A154B?style=for-the-badge&logo=Blog&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF"/></a>
