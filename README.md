@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/sujin7837@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin7837&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin7837&show_icons=true&theme=apprentice)
