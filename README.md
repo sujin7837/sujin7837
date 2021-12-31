@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin7837&show_icons=true&theme=apprentice)
 
-### Solved.ac [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=sujin7837(https://solved.ac/sujin7837/)
+### Solved.ac 
+[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=sujin7837(https://solved.ac/sujin7837/)
+######
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sujin7837)](https://solved.ac/sujin7837/)
