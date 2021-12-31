@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-### "안녕하세요👋
-### 도전하는 개발자 김수진입니다."
+##### "안녕하세요👋 도전하는 개발자 김수진입니다."
 
-### Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아갑니다.
-### 협업을 위해 배려하며, 성장하기 위해 노력합니다.
+##### Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아갑니다.
+##### 협업을 위해 배려하며, 성장하기 위해 노력합니다.
 
 <!--
 **sujin7837/sujin7837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
