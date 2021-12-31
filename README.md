@@ -41,6 +41,4 @@ Here are some ideas to get you started:
 ### Solved.ac 
 
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=sujin7837)](https://solved.ac/sujin7837/)
-
-
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sujin7837)](https://solved.ac/sujin7837/)
