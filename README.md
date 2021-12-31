@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <a href="https://www.notion.so/Ordinary-Code-f397b82a288647a5874e435f18e54997" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://sujin7837.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-F08705?style=for-the-badge&logo=Blog&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/sujin7837-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
